@@ -24,7 +24,7 @@ target="blank"><img align="center" src="https://icons8.com/icon/118497/facebook"
 
 - 💬 Ask me about **Html, Css, Java script, react**
 
-- 📫 How to reach me **mohammedhafeez.dev@gmail.com**
+<!--- 📫 How to reach me **mohammedhafeez.dev@gmail.com**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
